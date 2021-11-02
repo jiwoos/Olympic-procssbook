@@ -1,8 +1,9 @@
 
 
 div {
+  padding: 20px;
   margin: 20px;
-  width: 700px;
+  width: 1000px;
 }
 
 body {
@@ -10,5 +11,41 @@ body {
 }
 
 h3 {
-  font-weight: 500;
+  font-weight: 700;
+  font-weight: bold;
+}
+
+.background {
+  border-radius: 10px;
+  background-color: #FFE6A6;
+}
+
+.objectives {
+  border-radius: 10px;
+  background-color: #C6DDFF;
+}
+
+
+.data {
+  border-radius: 10px;
+  background-color: #FFF0F0;
+}
+
+.data-processing {
+  border-radius: 10px;
+  background-color: #FFF0F0;
+}
+
+.vis {
+  border-radius: 10px;
+  background-color: #E4FDEE;
+}
+
+.schedule {
+  border-radius: 10px;
+  background-color: #F2E1FF;
+}
+
+p {
+  width: 800px;
 }
