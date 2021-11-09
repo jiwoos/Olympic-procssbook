@@ -31,7 +31,7 @@ h3 {
   background-color: #FFF0F0;
 }
 
-.data-processing {
+.data-processing, .prototype {
   border-radius: 10px;
   background-color: #FFF0F0;
 }
@@ -41,7 +41,7 @@ h3 {
   background-color: #E4FDEE;
 }
 
-.schedule {
+.schedule, .dataAcquisition {
   border-radius: 10px;
   background-color: #F2E1FF;
 }
@@ -49,3 +49,4 @@ h3 {
 p {
   width: 800px;
 }
+
